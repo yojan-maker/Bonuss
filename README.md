@@ -113,6 +113,6 @@ P Pausar el juego
 --- 
 ##  📷 Registro fotográfico
 
-![Image](https://github.com/user-attachments/assets/79b86b02-7acd-4687-8285-d7c58a2ab98a)
-![Image](https://github.com/user-attachments/assets/5846d5ae-9b42-4409-a47d-26e4852b78fc)
-![Image](https://github.com/user-attachments/assets/c686e0b3-9485-4601-b557-2dcdec4b963c)
+![Image](https://github.com/user-attachments/assets/10737133-f1ef-48dd-8295-721b19ea4be0)
+<img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/1ec013f7-6854-4e7d-a646-6f67c3a411fd" />
+<img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/d5249772-05c9-4790-9715-965db0e5b7a0" />
